@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FarmBOX</string>
+    <string name="channel_title">AI Predictions Updates</string>
+    <string name="channel_description">Updates sent from your FarmBOX based on what the inbuilt-AI has determined about your plant. Discover ripeness, disease and beyond.</string>
+</resources>
